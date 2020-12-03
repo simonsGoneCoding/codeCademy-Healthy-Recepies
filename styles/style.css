@@ -1,0 +1,42 @@
+body {
+  font-family: "Oswald", sans-serif;
+  background-color: #ffe4c49c;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  max-width: 200px;
+  height: auto;
+  margin: 0 auto;
+  padding-top: 15px;
+}
+
+.content {
+  display: block;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.description {
+  font-size: 20px;
+}
+
+#cook-time {
+  font-weight: bold;
+}
+
+ul li {
+  list-style: square;
+}
+
+p.time {
+  color: #808080a8;
+}
+
+p.citation a {
+  color: seagreen;
+}
